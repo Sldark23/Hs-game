@@ -1,0 +1,15 @@
+{
+  "name": "hj-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-hs": "python3 3027dg.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "drr"
+  },
+  "author": "darkslwl",
+  "license": "ISC"
+}
